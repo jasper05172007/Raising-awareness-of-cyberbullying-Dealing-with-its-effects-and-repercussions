@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <style>
+        body {
+            background-color: #565449;
+            color: #D8CFBC ;
+            font-family: "Bookman", serif;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            padding: 20px;
+        }
+        h1, h2 {
+            color: #ffffff;
+            font-weight: bold;
+        }
+        .hero {
+            text-align: center;
+            padding: 50px 0;
+        }
+  </style>
+</head>
+<body>
+    <div class="container">
+        <div class="hero">
+            <h1>Raising awareness of cyberbullying: Dealing with its effects and repercussions</h1>
+        </div>
+        
+        <b><p>According to Stopbullying.gov (n.d.), cyberbullying is bullying that takes place over digital devices like cell phones, computers, and tablets. Cyberbullying can occur through SMS, Text, and apps, or online in social media, forums, or gaming where people can view, participate in, or share content.</p></b>
+
+        <b><p>Cyberbullying includes sending, posting, or sharing negative, harmful, false, or mean content about someone else. It can include sharing personal or private information about someone else causing embarrassment or humiliation. Some cyberbullying crosses the line into unlawful or criminal behavior. Cyberbullying can also happen while at school, community, and even at work. Any type of bullying can have physical and psychological effects on a child. Anxiety, fear, depression, behavioral issues, and academic struggles are just some of the challenges kids may experience if they are targets. (Gordon, 2024)</p></b>
+
+        <b><p>A person may be subjected to cyberbullying for a variety of reasons, including mental and physical disability. This is true for certain well-known or well-known people, such as June Solitana, sometimes known as MJ, who has an orthopedic handicap that affects the musculoskeletal system at the age of 34. Despite this, MJ utilizes her face and lips to display her artistic ability, but like everyone else, she has not been immune to criticism from online users.</p></b>
+
+        <b><p>Cyberbullying can affect a student's mental health and can occur both within and outside of the school. Raising pupils' awareness can help them become more informed about online events. Elana Pearl Ben-Joseph, MD (2022), asserts that, similar to other forms of bullying, cyberbullying can occasionally result in severe, long-lasting issues. Constantly feeling angry or afraid can cause stress, which can affect mood, energy, sleep, and food. Additionally, it may cause jitters, anxiety, or depression. When someone is already experiencing anxiety or depression, cyberbullying can exacerbate their condition. Cyberbullied students may find it difficult to focus in class, which may have an impact on their academic performance.</p></b>  
+
+        <h2>Repercussions of Cyberbullying</h2>
+        <ul>
+            <li><b>Depression</b></li>
+            <li><b>Social Anxiety</b></li>
+            <li><b>Low Self-Esteem</b></li>
+            <li><b>Emotional and Physical Harm</b></li>
+            <li><b>Learning Difficulties</b></li>
+        </ul>
+
+        <p>Expulsion and suspension from school are possible outcomes of using social media to injure someone's mental health, but it can also go too far, in which case the victim may also bring a lawsuit against the perpetrator. The Department of Education (DepEd) has released recommendations to address bullying in schools, including measures to deal with cyberbullying, according to the Lawyer of the Philippines 2024. The Anti-Bullying Act of 2013, also known as Republic Act No. 10627, requires schools to establish anti-bullying policies that cover behavior that occurs via technology.</p>
+
+        <p>We can stop cyberbullying for a better future by raising awareness and educating individuals, students, and school counselors about it. However, how can we support students who are having the same problem? We can assist a victim in a little manner by listening to their issues and letting them know that there are still people who have their back. Students can also use the link below to share their experiences.</p>
+    </div>
+</body>
+</html>
